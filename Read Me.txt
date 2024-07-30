@@ -1,0 +1,7 @@
+Title and Description: Simple Elementary Calculator GUI utilising TKINTER
+Installation Instructions: Install entire package and run .py file
+Usage Instructions: Use as a normal calculator, use clear btn to clear the field and start a new operation
+Features: N/A
+Contributing: N/A
+License: N/A
+Acknowledgements: https://youtu.be/RF9l5wnFH4M?si=4euVWdeVat6T9gEk
